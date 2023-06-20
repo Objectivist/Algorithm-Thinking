@@ -71,9 +71,9 @@
     <tr align="center">
       <td style="vertical-align:middle"><img src="./이미지/gold5.svg" width="17"/></td>
       <td>
-            <a href="https://www.acmicpc.net/problem/번호"> BOJ 번호 제목 </a>
+            <a href="https://www.acmicpc.net/problem/14502"> 연구소 </a>
       </td>
-      <td>DP</td>
+      <td>??</td>
     </tr>
   </tbody>
 </table>
