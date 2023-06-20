@@ -19,9 +19,11 @@
 <br />
 <details markdown="1">
 <summary><strong> 1주차🌱 (2023/06/19 ~ 2023/06/26)</strong></summary> 
+  
 | 레벨 |     문제     |                             내용                             | 수행 | 언어 | 바로가기 | 정리글 |
 | :----: | :----------: | :----------------------------------------------------------: | :----: | :----: | :----: | :----: |
 |골드4|[[BOJ_번호_제목](https://www.acmicpc.net/problem/번호)]|DFS| ○ | JAVA |[클릭](./BOJ/위치.java)||
 |골드4|[[BOJ_번호_제목](https://www.acmicpc.net/problem/번호)]|DFS| ○ | JAVA |[클릭](./BOJ/위치.java)||
+
 <br>
 </details>
