@@ -16,7 +16,7 @@
         </td>
         <td align="center">
             <a href="https://github.com/Jueundev">                 
-                <img alt="박동준" src="https://avatars.githubusercontent.com/" width="200" />            
+                <img alt="박동준" src="https://avatars.githubusercontent.com/dongjundev" width="200" />            
             </a>
         </td>
     </tr>
@@ -64,9 +64,9 @@
       <td rowspan="2">1주차<br>(2023/06/19 ~ 2023/06/26)</td>
       <td style="vertical-align:middle"><img src="./이미지/gold5.svg" width="17"/></td>
       <td>
-            <a href="https://www.acmicpc.net/problem/번호"> 내용 </a>
+            <a href="https://school.programmers.co.kr/learn/courses/30/lessons/154540"> 무인도 여행 </a>
       </td>
-      <td>DP</td>
+      <td>??</td>
     </tr>
     <tr align="center">
       <td style="vertical-align:middle"><img src="./이미지/gold5.svg" width="17"/></td>
