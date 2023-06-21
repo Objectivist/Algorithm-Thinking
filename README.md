@@ -62,18 +62,18 @@
   <tbody>
     <tr align="center">
       <td rowspan="2">1주차<br>(2023/06/19 ~ 2023/06/26)</td>
-      <td style="vertical-align:middle"><img src="./이미지/gold5.svg" width="17"/></td>
+      <td style="vertical-align:middle"><img src="./이미지/2.png" width="17"/></td>
       <td>
             <a href="https://school.programmers.co.kr/learn/courses/30/lessons/154540"> 무인도 여행 </a>
       </td>
-      <td>??</td>
+      <td>DFS</td>
     </tr>
     <tr align="center">
-      <td style="vertical-align:middle"><img src="./이미지/gold5.svg" width="17"/></td>
+      <td style="vertical-align:middle"><img src="./이미지/silver1.svg" width="17"/></td>
       <td>
-            <a href="https://www.acmicpc.net/problem/14502"> 연구소 </a>
+            <a href="https://www.acmicpc.net/problem/2178"> 미로탐색 </a>
       </td>
-      <td>??</td>
+      <td>BFS</td>
     </tr>
   </tbody>
 </table>
