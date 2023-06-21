@@ -66,7 +66,7 @@
     <td>프로그래머스</td>
     <td style="vertical-align:middle"><img src="./이미지/2.png" width="17"/></td>
     <td>
-      <a href="https://school.programmers.co.kr/learn/courses/30/lessons/154540"> 무인도 여행 </a>
+      <a href="https://school.programmers.co.kr/learn/courses/30/lessons/154540" target="_blank"> 무인도 여행 </a>
     </td>
     <td>DFS</td>
    </tr>
@@ -74,7 +74,7 @@
     <td>백준</td>
     <td style="vertical-align:middle"><img src="./이미지/silver1.svg" width="17"/></td>
     <td>
-     <a href="https://www.acmicpc.net/problem/2178"> 미로탐색 </a>
+     <a href="https://www.acmicpc.net/problem/2178" target="_blank"> 미로탐색 </a>
     </td>
     <td>BFS</td>
     </tr>
