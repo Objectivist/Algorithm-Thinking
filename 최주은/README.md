@@ -23,7 +23,7 @@
 | 레벨 |     문제     |                             내용                             | 수행 | 언어 | 바로가기 | 정리글 |
 | :----: | :----------: | :----------------------------------------------------------: | :----: | :----: | :----: | :----: |
 |LV2|[Programmers_무인도_여행](https://school.programmers.co.kr/learn/courses/30/lessons/154540)|DFS| ○ | JAVA |[클릭](./Programmers/LV2_무인도여행.java)||
-|골드4|[[BOJ_2178_미로탐색](https://www.acmicpc.net/problem/2178)]|BFS| ○ | JAVA |[클릭](./BOJ/BOJ_2178_미로탐색.java)||
+|골드4|[BOJ_2178_미로탐색](https://www.acmicpc.net/problem/2178)|BFS| ○ | JAVA |[클릭](./BOJ/BOJ_2178_미로탐색.java)||
 
 <br>
 </details>
