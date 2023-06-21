@@ -53,27 +53,30 @@
 <table style="text-aling:center">
   <thead>
     <tr align="center">
-      <th>주차</th>
-      <th>레벨</th>
-      <th>문제</th>
-      <th>유형</th>
+     <th>주차</th>
+     <th>종류</th>
+     <th>레벨</th>
+     <th>문제</th>
+     <th>유형</th>
     </tr>
   </thead>
   <tbody>
-    <tr align="center">
-      <td rowspan="2">1주차<br>(2023/06/19 ~ 2023/06/26)</td>
-      <td style="vertical-align:middle"><img src="./이미지/2.png" width="17"/></td>
-      <td>
-            <a href="https://school.programmers.co.kr/learn/courses/30/lessons/154540"> 무인도 여행 </a>
-      </td>
-      <td>DFS</td>
-    </tr>
-    <tr align="center">
-      <td style="vertical-align:middle"><img src="./이미지/silver1.svg" width="17"/></td>
-      <td>
-            <a href="https://www.acmicpc.net/problem/2178"> 미로탐색 </a>
-      </td>
-      <td>BFS</td>
+   <tr align="center">
+    <td rowspan="2">1주차<br>(2023/06/19 ~ 2023/06/26)</td>
+    <td>프로그래머스</td>
+    <td style="vertical-align:middle"><img src="./이미지/2.png" width="17"/></td>
+    <td>
+      <a href="https://school.programmers.co.kr/learn/courses/30/lessons/154540"> 무인도 여행 </a>
+    </td>
+    <td>DFS</td>
+   </tr>
+   <tr align="center">
+    <td>백준</td>
+    <td style="vertical-align:middle"><img src="./이미지/silver1.svg" width="17"/></td>
+    <td>
+     <a href="https://www.acmicpc.net/problem/2178"> 미로탐색 </a>
+    </td>
+    <td>BFS</td>
     </tr>
   </tbody>
 </table>
