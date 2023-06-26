@@ -16,6 +16,7 @@
 
 
 ### Summary ▼
+
 <br />
 <details markdown="1">
 <summary><strong> 1주차🌱 (2023/06/19 ~ 2023/06/26)</strong></summary> 
@@ -23,7 +24,17 @@
 | 레벨 |     문제     |                             내용                             | 수행 | 언어 | 바로가기 | 정리글 |
 | :----: | :----------: | :----------------------------------------------------------: | :----: | :----: | :----: | :----: |
 |LV2|[Programmers_무인도_여행](https://school.programmers.co.kr/learn/courses/30/lessons/154540)|DFS| ○ | JAVA |[클릭](./Programmers/LV2_무인도여행.java)||
-|골드4|[BOJ_2178_미로탐색](https://www.acmicpc.net/problem/2178)|BFS| ○ | JAVA |[클릭](./BOJ/BOJ_2178_미로탐색.java)||
+|실버1|[BOJ_2178_미로탐색](https://www.acmicpc.net/problem/2178)|BFS| ○ | JAVA |[클릭](./BOJ/BOJ_2178_미로탐색.java)||
+
+<br>
+</details>
+<details markdown="1">
+<summary><strong> 2주차🌱 (2023/06/26 ~ 2023/07/03)</strong></summary> 
+  
+| 레벨 |     문제     |                             내용                             | 수행 | 언어 | 바로가기 | 정리글 |
+| :----: | :----------: | :----------------------------------------------------------: | :----: | :----: | :----: | :----: |
+|LV3|[Programmers_무인도_여행](https://school.programmers.co.kr/learn/courses/30/lessons/1838)|카카| ○ | JAVA |[클릭](./Programmers/LV3_몸짱_트레이너_라이언의_고민.java)||
+|골드5|[BOJ_2178_미로탐색](https://www.acmicpc.net/problem/2011)|DP| ○ | JAVA |[클릭](./BOJ/BOJ_2011_암호탐색.java)||
 
 <br>
 </details>
