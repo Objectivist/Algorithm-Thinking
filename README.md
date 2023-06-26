@@ -78,6 +78,23 @@
     </td>
     <td>BFS</td>
     </tr>
+   <tr align="center">
+    <td rowspan="2">2주차<br>(2023/06/26 ~ 2023/07/03)</td>
+    <td>프로그래머스</td>
+    <td style="vertical-align:middle"><img src="./이미지/3.png" width="17"/></td>
+    <td>
+      <a href="https://school.programmers.co.kr/learn/courses/30/lessons/1838" target="_blank"> 몸짱 트레이너 라이언의 고민 </a>
+    </td>
+    <td>카카오</td>
+   </tr>
+   <tr align="center">
+    <td>백준</td>
+    <td style="vertical-align:middle"><img src="./이미지/gold5.svg" width="17"/></td>
+    <td>
+     <a href="https://www.acmicpc.net/problem/2011" target="_blank"> 암호코드 </a>
+    </td>
+    <td>DP</td>
+    </tr>
   </tbody>
 </table>
 </details>
