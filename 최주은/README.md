@@ -33,7 +33,7 @@
   
 | 레벨 |     문제     |                             내용                             | 수행 | 언어 | 바로가기 | 정리글 |
 | :----: | :----------: | :----------------------------------------------------------: | :----: | :----: | :----: | :----: |
-|LV3|[Programmers_몸짱_트레이너_라이언의_고민](https://school.programmers.co.kr/learn/courses/30/lessons/1838)|카카오| ○ | JAVA |[클릭](./Programmers/LV3_몸짱_트레이너_라이언의_고민.java)||
+|LV3|[Programmers_몸짱_트레이너_라이언의_고민](https://school.programmers.co.kr/learn/courses/30/lessons/1838)|카카오| ○ | JAVA |[클릭](./Programmers/LV3_몸짱_트레이너_라이언의_고민.java)|[맨해튼거리](https://ko.wikipedia.org/wiki/%EB%A7%A8%ED%95%B4%ED%8A%BC_%EA%B1%B0%EB%A6%AC)|
 |골드5|[BOJ_2011_암호코드](https://www.acmicpc.net/problem/2011)|DP| ○ | JAVA |[클릭](./BOJ/BOJ_2011_암호코드.java)||
 
 <br>
