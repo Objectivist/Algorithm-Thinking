@@ -38,3 +38,13 @@
 
 <br>
 </details>
+<details markdown="1">
+<summary><strong> 3주차🌱 (2023/07/03 ~ 2023/07/10)</strong></summary> 
+  
+| 레벨 |     문제     |                             내용                             | 수행 | 언어 | 바로가기 | 정리글 |
+| :----: | :----------: | :----------------------------------------------------------: | :----: | :----: | :----: | :----: |
+|LV3|[Programmers_기지국_설치](https://school.programmers.co.kr/learn/courses/30/lessons/12979)|Summer/Winter Coding(~2018)| ○ | JAVA |[클릭](./Programmers/LV3_기지국설치.java)||
+|골드5|[BOJ_2011_Fly_me_to_the_Alpha_Centauri](https://www.acmicpc.net/problem/1011)|수학| ○ | JAVA |[클릭](./BOJ/BOJ_1011_Fly_me_to_the_Alpha_Centauri.java)||
+
+<br>
+</details>
