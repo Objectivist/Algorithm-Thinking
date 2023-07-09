@@ -151,7 +151,7 @@
     <td>
       <a href="" target="_blank"> ? </a>
     </td>
-    <td>Summer/Winter Coding(~2018)</td>
+    <td>?</td>
    </tr>
    <tr align="center">
     <td>백준</td>
@@ -159,7 +159,7 @@
     <td>
      <a href="" target="_blank"> ? </a>
     </td>
-    <td>BFS</td>
+    <td>?</td>
    </tr>
   </tbody>
 </table>
