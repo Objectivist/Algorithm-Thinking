@@ -145,7 +145,32 @@
    </tr>
   </tbody>
  <tr align="center">
-    <td rowspan="2">4주차<br>(2023/07/10 ~ 2023/07/17)</td>
+    <td rowspan="3">4주차<br>(2023/07/10 ~ 2023/07/17)</td>
+    <td>프로그래머스</td>
+    <td style="vertical-align:middle"><img src="./이미지/3.png" width="17"/></td>
+    <td>
+      <a href="" target="https://school.programmers.co.kr/learn/courses/30/lessons/132266"> 부대복귀 </a>
+    </td>
+    <td>연습문제</td>
+   </tr>
+   <tr align="center">
+    <td>백준</td>
+    <td style="vertical-align:middle"><img src="./이미지/gold5.svg" width="17"/></td>
+    <td>
+     <a href="" target="https://www.acmicpc.net/problem/20165"> 인내의 도미노 장인 호석 </a>
+    </td>
+    <td>구현/시뮬레이션</td>
+   </tr>
+   <tr align="center">
+    <td>백준</td>
+    <td style="vertical-align:middle"><img src="./이미지/gold4.svg" width="17"/></td>
+    <td>
+     <a href="" target="https://www.acmicpc.net/problem/11559"> Puyo Puyo </a>
+    </td>
+    <td>보너스</td>
+   </tr>
+   <tr align="center">
+    <td rowspan="2">5주차<br>(2023/07/17 ~ 2023/07/24)</td>
     <td>프로그래머스</td>
     <td style="vertical-align:middle"><img src="./이미지/3.png" width="17"/></td>
     <td>
