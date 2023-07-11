@@ -149,7 +149,7 @@
     <td>프로그래머스</td>
     <td style="vertical-align:middle"><img src="./이미지/3.png" width="17"/></td>
     <td>
-      <a href="" target="https://school.programmers.co.kr/learn/courses/30/lessons/132266"> 부대복귀 </a>
+      <a href="https://school.programmers.co.kr/learn/courses/30/lessons/132266" target="_blank"> 부대복귀 </a>
     </td>
     <td>연습문제</td>
    </tr>
@@ -157,7 +157,7 @@
     <td>백준</td>
     <td style="vertical-align:middle"><img src="./이미지/gold5.svg" width="17"/></td>
     <td>
-     <a href="" target="https://www.acmicpc.net/problem/20165"> 인내의 도미노 장인 호석 </a>
+     <a href="https://www.acmicpc.net/problem/20165" target="_blank"> 인내의 도미노 장인 호석 </a>
     </td>
     <td>구현/시뮬레이션</td>
    </tr>
@@ -165,7 +165,7 @@
     <td>백준</td>
     <td style="vertical-align:middle"><img src="./이미지/gold4.svg" width="17"/></td>
     <td>
-     <a href="" target="https://www.acmicpc.net/problem/11559"> Puyo Puyo </a>
+     <a href="https://www.acmicpc.net/problem/11559" target="_blank"> Puyo Puyo </a>
     </td>
     <td>보너스</td>
    </tr>
