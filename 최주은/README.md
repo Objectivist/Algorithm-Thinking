@@ -55,7 +55,7 @@
   
 | 레벨 |     문제     |                             내용                             | 수행 | 언어 | 바로가기 | 정리글 |
 | :----: | :----------: | :----------------------------------------------------------: | :----: | :----: | :----: | :----: |
-|LV3|[Programmers_부대복](https://school.programmers.co.kr/learn/courses/30/lessons/132266)|연습문제, 다익스트라, BFS| ○ | JAVA |[클릭](./Programmers/LV3_부대복.java)||
+|LV3|[Programmers_부대복귀](https://school.programmers.co.kr/learn/courses/30/lessons/132266)|연습문제, 다익스트라, BFS| ○ | JAVA |[클릭](./Programmers/LV3_부대복귀.java)||
 |골드5|[BOJ_11559_Puyo_Puyo](https://www.acmicpc.net/problem/11559)|구현, 시뮬레이터| ○ | JAVA |[클릭](./BOJ/BOJ_11559_Puyo_Puyo.java)||
 |골드5|[BOJ_20165_인내의_도미노_장인_호석](https://www.acmicpc.net/problem/20165)|구현, 시뮬레이터| ○ | JAVA |[클릭](./BOJ/BOJ_20165_인내의_도미노_장인_호석.java)||
 
