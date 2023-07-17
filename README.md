@@ -170,11 +170,36 @@
     <td>보너스</td>
    </tr>
    <tr align="center">
-    <td rowspan="2">5주차<br>(2023/07/17 ~ 2023/07/24)</td>
+    <td rowspan="3">5주차<br>(2023/07/17 ~ 2023/07/24)</td>
     <td>프로그래머스</td>
     <td style="vertical-align:middle"><img src="./이미지/3.png" width="17"/></td>
     <td>
-      <a href="https://school.programmers.co.kr/learn/courses/30/lessons/152995" target="_blank"> 인사고과 </a>
+      <a href="" target="https://www.acmicpc.net/problem/92344"> 파괴되지 않은 건물 </a>
+    </td>
+    <td>2022 KAKAO BLIND RECRUITMENT</td>
+   </tr>
+   <tr align="center">
+    <td>백준</td>
+    <td style="vertical-align:middle"><img src="./이미지/gold4.svg" width="17"/></td>
+    <td>
+     <a href="" target="https://www.acmicpc.net/problem/17069"> 파이프 옮기기 2 </a>
+    </td>
+    <td>DP</td>
+   </tr>
+   <tr align="center">
+    <td>백준</td>
+    <td style="vertical-align:middle"><img src="./이미지/gold4.svg" width="17"/></td>
+    <td>
+     <a href="" target="https://www.acmicpc.net/problem/16434"> 드래곤 앤 던전 </a>
+    </td>
+    <td>이분탐색, 구현</td>
+   </tr>
+   <tr align="center">
+    <td rowspan="2">6주차<br>(2023/07/24 ~ 2023/07/31)</td>
+    <td>프로그래머스</td>
+    <td style="vertical-align:middle"><img src="./이미지/3.png" width="17"/></td>
+    <td>
+      <a href="" target="_blank"> ? </a>
     </td>
     <td>?</td>
    </tr>
