@@ -174,7 +174,7 @@
     <td>프로그래머스</td>
     <td style="vertical-align:middle"><img src="./이미지/3.png" width="17"/></td>
     <td>
-      <a href="" target="_blank"> ? </a>
+      <a href="https://school.programmers.co.kr/learn/courses/30/lessons/152995" target="_blank"> 인사고과 </a>
     </td>
     <td>?</td>
    </tr>
