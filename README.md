@@ -19,10 +19,16 @@
                 <img alt="박동준" src="https://avatars.githubusercontent.com/dongjundev" width="200" />            
             </a>
         </td>
+        <td align="center">
+            <a href="https://github.com/dlehsals">                 
+                <img alt="이돈민" src="https://avatars.githubusercontent.com/dlehsals" width="150" />            
+            </a>
+      </td>
     </tr>
     <tr>
         <td align="center">최주은</td>
         <td align="center">박동준</td>
+        <td align="center">이돈민</td>
     </tr>
 </table>
 
