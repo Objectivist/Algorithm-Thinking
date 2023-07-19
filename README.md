@@ -181,7 +181,7 @@
     <td>프로그래머스</td>
     <td style="vertical-align:middle"><img src="./이미지/3.png" width="17"/></td>
     <td>
-      <a href="" target="https://www.acmicpc.net/problem/92344"> 파괴되지 않은 건물 </a>
+      <a href="ttps://www.acmicpc.net/problem/92344" target="h_blank"> 파괴되지 않은 건물 </a>
     </td>
     <td>2022 KAKAO BLIND RECRUITMENT</td>
    </tr>
@@ -189,7 +189,7 @@
     <td>백준</td>
     <td style="vertical-align:middle"><img src="./이미지/gold4.svg" width="17"/></td>
     <td>
-     <a href="" target="https://www.acmicpc.net/problem/17069"> 파이프 옮기기 2 </a>
+     <a href="https://www.acmicpc.net/problem/17069" target="_blank"> 파이프 옮기기 2 </a>
     </td>
     <td>DP</td>
    </tr>
@@ -197,7 +197,7 @@
     <td>백준</td>
     <td style="vertical-align:middle"><img src="./이미지/gold4.svg" width="17"/></td>
     <td>
-     <a href="" target="https://www.acmicpc.net/problem/16434"> 드래곤 앤 던전 </a>
+     <a href="https://www.acmicpc.net/problem/16434" target="_blank"> 드래곤 앤 던전 </a>
     </td>
     <td>이분탐색, 구현</td>
    </tr>
