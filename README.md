@@ -181,7 +181,7 @@
     <td>프로그래머스</td>
     <td style="vertical-align:middle"><img src="./이미지/3.png" width="17"/></td>
     <td>
-      <a href="ttps://www.acmicpc.net/problem/92344" target="h_blank"> 파괴되지 않은 건물 </a>
+      <a href="ttps://www.acmicpc.net/problem/92344" target="_blank"> 파괴되지 않은 건물 </a>
     </td>
     <td>2022 KAKAO BLIND RECRUITMENT</td>
    </tr>
