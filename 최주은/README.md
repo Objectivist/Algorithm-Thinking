@@ -61,3 +61,15 @@
 
 <br>
 </details>
+
+<details markdown="1">
+<summary><strong> 5주차🌱 (2023/07/17 ~ 2023/07/24)</strong></summary> 
+  
+| 레벨 |     문제     |                             내용                             | 수행 | 언어 | 바로가기 | 정리글 |
+| :----: | :----------: | :----------------------------------------------------------: | :----: | :----: | :----: | :----: |
+|LV3|[Programmers_파괴되지_않은_건물](https://school.programmers.co.kr/learn/courses/30/lessons/92344)|2022 KAKAO BLIND RECRUITMENT, 누적합| ○ | JAVA |[클릭](./Programmers/LV3_파괴되지_않은_건물.java)||
+|골드5|[BOJ_17069_파이프_옮기기_2](https://www.acmicpc.net/problem/17069)|DP| ○ | JAVA |[클릭](./BOJ/BOJ_17069_파이프_옮기기_2.java)||
+|골드5|[BOJ_16434_드래곤_앤_던전](https://www.acmicpc.net/problem/16434)|이분탐색, 구현| ○ | JAVA |[클릭](./BOJ/BOJ_16434_드래곤_앤_던전.java)||
+
+<br>
+</details>
