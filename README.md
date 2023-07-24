@@ -10,7 +10,7 @@
 <table align="center" style="font-weight : bold">
     <tr>
         <td align="center">
-            <a href="https://github.com/Jueundev">                 
+            <a href="https://github.com/loveStarDev">                 
                 <img alt="최주은" src="https://avatars.githubusercontent.com/loveStarDev" width="200" />            
             </a>
         </td>
