@@ -73,3 +73,15 @@
 
 <br>
 </details>
+
+<details markdown="1">
+<summary><strong> 6주차🌱 (2023/07/24 ~ 2023/07/31)</strong></summary> 
+  
+| 레벨 |     문제     |                             내용                             | 수행 | 언어 | 바로가기 | 정리글 |
+| :----: | :----------: | :----------------------------------------------------------: | :----: | :----: | :----: | :----: |
+|LV3|[Programmers_양과_늑대](https://school.programmers.co.kr/learn/courses/30/lessons/92343)|2022 KAKAO BLIND RECRUITMENT| ○ | JAVA |[클릭](./Programmers/LV3_양과_늑대.java)||
+|골드4|[BOJ_13397_구간_나누기_2](https://www.acmicpc.net/problem/13397)|이분탐색| ○ | JAVA |[클릭](./BOJ/BOJ_13397_구간_나누_2.java)||
+|골드5|[BOJ_2138_전구와_스위치](https://www.acmicpc.net/problem/2138)|그리디| ○ | JAVA |[클릭](./BOJ/BOJ_2138_전구와_스위.java)||
+
+<br>
+</details>
