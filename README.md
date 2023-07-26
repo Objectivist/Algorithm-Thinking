@@ -201,26 +201,8 @@
     </td>
     <td>이분탐색, 구현</td>
    </tr>
-   </tbody>
-</table>
-</details>
-
- <details markdown="1">
-<summary><strong> 2023/08</strong></summary>
-<br>
-<table style="text-aling:center">
-  <thead>
-    <tr align="center">
-     <th>주차</th>
-     <th>종류</th>
-     <th>레벨</th>
-     <th>문제</th>
-     <th>유형</th>
-    </tr>
-  </thead>
-  <tbody>
-   <tr align="center">
-    <td rowspan="3">6주차<br>(2023/07/31 ~ 2023/08/07)</td>
+ <tr align="center">
+    <td rowspan="3">6주차<br>(2023/07/24 ~ 2023/07/31)</td>
     <td>프로그래머스</td>
     <td style="vertical-align:middle"><img src="./이미지/3.png" width="17"/></td>
     <td>
@@ -243,6 +225,49 @@
      <a href="https://www.acmicpc.net/problem/2138" target="_blank"> 전구와 스위치 </a>
     </td>
     <td>그리디 알고리즘</td>
+   </tr>
+   </tbody>
+</table>
+</details>
+
+ <details markdown="1">
+<summary><strong> 2023/08</strong></summary>
+<br>
+<table style="text-aling:center">
+  <thead>
+    <tr align="center">
+     <th>주차</th>
+     <th>종류</th>
+     <th>레벨</th>
+     <th>문제</th>
+     <th>유형</th>
+    </tr>
+  </thead>
+  <tbody>
+   <tr align="center">
+    <td rowspan="3">7주차<br>(2023/07/31 ~ 2023/08/07)</td>
+    <td>프로그래머스</td>
+    <td style="vertical-align:middle"><img src="./이미지/3.png" width="17"/></td>
+    <td>
+      <a href="https://school.programmers.co.kr/learn/courses/30/lessons/번호" target="_blank"> [이름] </a>
+    </td>
+    <td>[구분]</td>
+   </tr>
+   <tr align="center">
+    <td>백준</td>
+    <td style="vertical-align:middle"><img src="./이미지/gold4.svg" width="17"/></td>
+    <td>
+     <a href="https://www.acmicpc.net/problem/번호" target="_blank"> [이름] </a>
+    </td>
+    <td>구분</td>
+   </tr>
+   <tr align="center">
+    <td>백준</td>
+    <td style="vertical-align:middle"><img src="./이미지/gold5.svg" width="17"/></td>
+    <td>
+     <a href="https://www.acmicpc.net/problem/번호" target="_blank"> [이름] </a>
+    </td>
+    <td>구분</td>
    </tr>
   </tbody>
 </table>
