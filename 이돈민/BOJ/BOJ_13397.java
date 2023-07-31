@@ -1,7 +1,7 @@
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
-
+//파라메트릭 서치
 public class BOJ_13397 {
     static int n, m, max, answer;
     static int[] arr;
@@ -33,8 +33,10 @@ public class BOJ_13397 {
                 //조건을 만족하는 구간점수 최대값의 최소값 구하기
                 //더 작은 중간값으로 조건을 만족할 수 있는지
                 answer = Math.min(answer, mid);
+                //mid가 5라고 치면 end = 4, start = 0 | 0~4
                 end = mid - 1;
             }else
+                //6 ~ 10 이렇게 되면 중간값이 커지고 여기서 의문점 하나. 중간값이 커진다고 해서 구간의 갯수가 무조건 늘어나느냐? 모르겠다..주은씨의 설명 필요
                 start = mid + 1;
         }
         System.out.println(answer);
