@@ -276,7 +276,7 @@
     <td>
       <a href="???" target="_blank"> ??? </a>
     </td>
-    <td>2022 KAKAO BLIND RECRUITMENT</td>
+    <td>구분</td>
    </tr>
    <tr align="center">
     <td>백준</td>
@@ -284,7 +284,7 @@
     <td>
      <a href="https://www.acmicpc.net/problem/???" target="_blank"> ??? </a>
     </td>
-    <td>이분탐색</td>
+    <td>구분</td>
    </tr>
    <tr align="center">
     <td>백준</td>
@@ -292,7 +292,7 @@
     <td>
      <a href="https://www.acmicpc.net/problem/???" target="_blank"> ??? </a>
     </td>
-    <td>그리디 알고리즘</td>
+    <td>구분</td>
    </tr>
   </tbody>
 </table>
