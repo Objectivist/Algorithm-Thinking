@@ -249,7 +249,7 @@
     <td>프로그래머스</td>
     <td style="vertical-align:middle"><img src="./이미지/3.png" width="17"/></td>
     <td>
-      <a href="https://school.programmers.co.kr/learn/courses/30/lessons/번호" target="_blank"> [이름] </a>
+      <a href="https://school.programmers.co.kr/learn/courses/30/lessons/72413" target="_blank"> 합승 택시 요금 </a>
     </td>
     <td>[구분]</td>
    </tr>
@@ -257,7 +257,7 @@
     <td>백준</td>
     <td style="vertical-align:middle"><img src="./이미지/gold4.svg" width="17"/></td>
     <td>
-     <a href="https://www.acmicpc.net/problem/번호" target="_blank"> [이름] </a>
+     <a href="https://www.acmicpc.net/problem/17951" target="_blank"> 흩날리는 시험지 속에서 내 평점이 느껴진거야 </a>
     </td>
     <td>구분</td>
    </tr>
@@ -265,9 +265,34 @@
     <td>백준</td>
     <td style="vertical-align:middle"><img src="./이미지/gold5.svg" width="17"/></td>
     <td>
-     <a href="https://www.acmicpc.net/problem/번호" target="_blank"> [이름] </a>
+     <a href="https://www.acmicpc.net/problem/14719" target="_blank"> 빗물 </a>
     </td>
     <td>구분</td>
+   </tr>
+   <tr align="center">
+    <td rowspan="3">8주차<br>(2023/08/07 ~ 2023/08/14)</td>
+    <td>프로그래머스</td>
+    <td style="vertical-align:middle"><img src="./이미지/3.png" width="17"/></td>
+    <td>
+      <a href="???" target="_blank"> ??? </a>
+    </td>
+    <td>2022 KAKAO BLIND RECRUITMENT</td>
+   </tr>
+   <tr align="center">
+    <td>백준</td>
+    <td style="vertical-align:middle"><img src="./이미지/gold4.svg" width="17"/></td>
+    <td>
+     <a href="https://www.acmicpc.net/problem/???" target="_blank"> ??? </a>
+    </td>
+    <td>이분탐색</td>
+   </tr>
+   <tr align="center">
+    <td>백준</td>
+    <td style="vertical-align:middle"><img src="./이미지/gold5.svg" width="17"/></td>
+    <td>
+     <a href="https://www.acmicpc.net/problem/???" target="_blank"> ??? </a>
+    </td>
+    <td>그리디 알고리즘</td>
    </tr>
   </tbody>
 </table>
