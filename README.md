@@ -251,7 +251,7 @@
     <td>
       <a href="https://school.programmers.co.kr/learn/courses/30/lessons/72413" target="_blank"> 합승 택시 요금 </a>
     </td>
-    <td>[구분]</td>
+    <td>2021 KAKAO BLIND RECRUITMENT</td>
    </tr>
    <tr align="center">
     <td>백준</td>
