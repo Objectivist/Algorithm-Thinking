@@ -87,12 +87,12 @@
 </details>
 
 <details markdown="1">
-<summary><strong> 7주차🌱 (2023/7/31 ~ 2023/08/07)</strong></summary> 
+<summary><strong> 7주차🌱 (2023/07/31 ~ 2023/08/07)</strong></summary> 
   
 | 레벨 |     문제     |                             내용                             | 수행 | 언어 | 바로가기 | 정리글 |
 | :----: | :----------: | :----------------------------------------------------------: | :----: | :----: | :----: | :----: |
-|LV3|[Programmers_합승_택시_요금](https://school.programmers.co.kr/learn/courses/30/lessons/72413)|2022 KAKAO BLIND RECRUITMENT| ○ | JAVA |[클릭](./Programmers/LV3_합승_택시_요.java)||
-|골드4|[BOJ_17951_흩날리는_시험지_속에서_내_평점이_느껴진거야](https://www.acmicpc.net/problem/17951)|이분탐색| ○ | JAVA |[클릭](./BOJ/BOJ_17951_흩날리는_시험지_속에서_내_평점이_느껴진거야.java)||
+|LV3|[Programmers_합승_택시_요금](https://school.programmers.co.kr/learn/courses/30/lessons/72413)|2022 KAKAO BLIND RECRUITMENT| ○ | JAVA |[클릭](./Programmers/LV3_합승_택시_요금.java)||
+|골드4|[BOJ_17951_흩날리는_시험지_속...](https://www.acmicpc.net/problem/17951)|이분탐색| ○ | JAVA |[클릭](./BOJ/BOJ_17951_흩날리는_시험지_속에서_내_평점이_느껴진거야.java)||
 |골드5|[BOJ_14719_빗물](https://www.acmicpc.net/problem/14719)|구현, 시뮬| ○ | JAVA |[클릭](./BOJ/BOJ_14719_빗물.java)||
  
 <br>
