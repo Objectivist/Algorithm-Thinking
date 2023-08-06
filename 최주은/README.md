@@ -61,3 +61,39 @@
 
 <br>
 </details>
+
+<details markdown="1">
+<summary><strong> 5주차🌱 (2023/07/17 ~ 2023/07/24)</strong></summary> 
+  
+| 레벨 |     문제     |                             내용                             | 수행 | 언어 | 바로가기 | 정리글 |
+| :----: | :----------: | :----------------------------------------------------------: | :----: | :----: | :----: | :----: |
+|LV3|[Programmers_파괴되지_않은_건물](https://school.programmers.co.kr/learn/courses/30/lessons/92344)|2022 KAKAO BLIND RECRUITMENT, 누적합| ○ | JAVA |[클릭](./Programmers/LV3_파괴되지_않은_건물.java)||
+|골드4|[BOJ_17069_파이프_옮기기_2](https://www.acmicpc.net/problem/17069)|DP| ○ | JAVA |[클릭](./BOJ/BOJ_17069_파이프_옮기기_2.java)||
+|골드4|[BOJ_16434_드래곤_앤_던전](https://www.acmicpc.net/problem/16434)|이분탐색, 구현| ○ | JAVA |[클릭](./BOJ/BOJ_16434_드래곤_앤_던전.java)||
+
+<br>
+</details>
+
+<details markdown="1">
+<summary><strong> 6주차🌱 (2023/07/24 ~ 2023/07/31)</strong></summary> 
+  
+| 레벨 |     문제     |                             내용                             | 수행 | 언어 | 바로가기 | 정리글 |
+| :----: | :----------: | :----------------------------------------------------------: | :----: | :----: | :----: | :----: |
+|LV3|[Programmers_양과_늑대](https://school.programmers.co.kr/learn/courses/30/lessons/92343)|2022 KAKAO BLIND RECRUITMENT| ○ | JAVA |[클릭](./Programmers/LV3_양과_늑대.java)||
+|골드4|[BOJ_13397_구간_나누기_2](https://www.acmicpc.net/problem/13397)|이분탐색| ○ | JAVA |[클릭](./BOJ/BOJ_13397_구간_나누기_2.java)||
+|골드5|[BOJ_2138_전구와_스위치](https://www.acmicpc.net/problem/2138)|그리디| ○ | JAVA |[클릭](./BOJ/BOJ_2138_전구와_스위치.java)||
+
+<br>
+</details>
+
+<details markdown="1">
+<summary><strong> 7주차🌱 (2023/07/31 ~ 2023/08/07)</strong></summary> 
+  
+| 레벨 |     문제     |                             내용                             | 수행 | 언어 | 바로가기 | 정리글 |
+| :----: | :----------: | :----------------------------------------------------------: | :----: | :----: | :----: | :----: |
+|LV3|[Programmers_합승_택시_요금](https://school.programmers.co.kr/learn/courses/30/lessons/72413)|2022 KAKAO BLIND RECRUITMENT| ○ | JAVA |[클릭](./Programmers/LV3_합승_택시_요금.java)||
+|골드4|[BOJ_17951_흩날리는_시험지_속...](https://www.acmicpc.net/problem/17951)|이분탐색| ○ | JAVA |[클릭](./BOJ/BOJ_17951_흩날리는_시험지_속에서_내_평점이_느껴진거야.java)||
+|골드5|[BOJ_14719_빗물](https://www.acmicpc.net/problem/14719)|구현, 시뮬| ○ | JAVA |[클릭](./BOJ/BOJ_14719_빗물.java)||
+ 
+<br>
+</details>

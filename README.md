@@ -10,7 +10,7 @@
 <table align="center" style="font-weight : bold">
     <tr>
         <td align="center">
-            <a href="https://github.com/Jueundev">                 
+            <a href="https://github.com/loveStarDev">                 
                 <img alt="최주은" src="https://avatars.githubusercontent.com/loveStarDev" width="200" />            
             </a>
         </td>
@@ -59,6 +59,7 @@
 | :----: | :----------: | :----------------------------------------------------------: | :----: | :----: |
 |2023-07-03~2023-07-17|7P~25P|2장 객체 생성과 파괴 (아이템 1~3)| ■ Effective Java | |
 |2023-07-17~2023-07-31|26P~35P|2장 객체 생성과 파괴 (아이템 4~6)| ■ Effective Java | |
+|2023-07-31~2023-08-14|36P~50P|2장 객체 생성과 파괴 (아이템 7~9)| ■ Effective Java | |
 
 </details>
 </br>
@@ -201,22 +202,98 @@
     </td>
     <td>이분탐색, 구현</td>
    </tr>
-   <tr align="center">
-    <td rowspan="2">6주차<br>(2023/07/24 ~ 2023/07/31)</td>
+ <tr align="center">
+    <td rowspan="3">6주차<br>(2023/07/24 ~ 2023/07/31)</td>
     <td>프로그래머스</td>
     <td style="vertical-align:middle"><img src="./이미지/3.png" width="17"/></td>
     <td>
-      <a href="" target="_blank"> ? </a>
+      <a href="https://school.programmers.co.kr/learn/courses/30/lessons/92343" target="_blank"> 양과 늑대 </a>
     </td>
-    <td>?</td>
+    <td>2022 KAKAO BLIND RECRUITMENT</td>
+   </tr>
+   <tr align="center">
+    <td>백준</td>
+    <td style="vertical-align:middle"><img src="./이미지/gold4.svg" width="17"/></td>
+    <td>
+     <a href="https://www.acmicpc.net/problem/13397" target="_blank"> 구간 나누기 2 </a>
+    </td>
+    <td>이분탐색</td>
    </tr>
    <tr align="center">
     <td>백준</td>
     <td style="vertical-align:middle"><img src="./이미지/gold5.svg" width="17"/></td>
     <td>
-     <a href="" target="_blank"> ? </a>
+     <a href="https://www.acmicpc.net/problem/2138" target="_blank"> 전구와 스위치 </a>
     </td>
-    <td>?</td>
+    <td>그리디 알고리즘</td>
+   </tr>
+   </tbody>
+</table>
+</details>
+
+ <details markdown="1">
+<summary><strong> 2023/08</strong></summary>
+<br>
+<table style="text-aling:center">
+  <thead>
+    <tr align="center">
+     <th>주차</th>
+     <th>종류</th>
+     <th>레벨</th>
+     <th>문제</th>
+     <th>유형</th>
+    </tr>
+  </thead>
+  <tbody>
+   <tr align="center">
+    <td rowspan="3">7주차<br>(2023/07/31 ~ 2023/08/07)</td>
+    <td>프로그래머스</td>
+    <td style="vertical-align:middle"><img src="./이미지/3.png" width="17"/></td>
+    <td>
+      <a href="https://school.programmers.co.kr/learn/courses/30/lessons/72413" target="_blank"> 합승 택시 요금 </a>
+    </td>
+    <td>2021 KAKAO BLIND RECRUITMENT</td>
+   </tr>
+   <tr align="center">
+    <td>백준</td>
+    <td style="vertical-align:middle"><img src="./이미지/gold4.svg" width="17"/></td>
+    <td>
+     <a href="https://www.acmicpc.net/problem/17951" target="_blank"> 흩날리는 시험지 속에서 내 평점이 느껴진거야 </a>
+    </td>
+    <td>이분탐색</td></td>
+   </tr>
+   <tr align="center">
+    <td>백준</td>
+    <td style="vertical-align:middle"><img src="./이미지/gold5.svg" width="17"/></td>
+    <td>
+     <a href="https://www.acmicpc.net/problem/14719" target="_blank"> 빗물 </a>
+    </td>
+    <td>시뮬레이션</td>
+   </tr>
+   <tr align="center">
+    <td rowspan="3">8주차<br>(2023/08/07 ~ 2023/08/14)</td>
+    <td>프로그래머스</td>
+    <td style="vertical-align:middle"><img src="./이미지/3.png" width="17"/></td>
+    <td>
+      <a href="???" target="_blank"> ??? </a>
+    </td>
+    <td>구분</td>
+   </tr>
+   <tr align="center">
+    <td>백준</td>
+    <td style="vertical-align:middle"><img src="./이미지/gold4.svg" width="17"/></td>
+    <td>
+     <a href="https://www.acmicpc.net/problem/???" target="_blank"> ??? </a>
+    </td>
+    <td>구분</td>
+   </tr>
+   <tr align="center">
+    <td>백준</td>
+    <td style="vertical-align:middle"><img src="./이미지/gold5.svg" width="17"/></td>
+    <td>
+     <a href="https://www.acmicpc.net/problem/???" target="_blank"> ??? </a>
+    </td>
+    <td>구분</td>
    </tr>
   </tbody>
 </table>
