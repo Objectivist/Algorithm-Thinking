@@ -277,7 +277,7 @@
     <td>
       <a href="https://school.programmers.co.kr/learn/courses/30/lessons/67258" target="_blank">보석 쇼핑</a>
     </td>
-    <td>구분</td>
+    <td>2020 카카오 인턴십</td>
    </tr>
    <tr align="center">
    <td>프로그래머스</td>
@@ -285,7 +285,7 @@
     <td>
       <a href="https://school.programmers.co.kr/learn/courses/30/lessons/17686" target="_blank">[3차]파일명 정렬</a>
     </td>
-    <td>구분</td>
+    <td>2018 KAKAO BLIND RECRUITMENT</td>
    </tr>
    <tr align="center">
     <td>백준</td>
