@@ -271,7 +271,7 @@
     <td>시뮬레이션</td>
    </tr>
    <tr align="center">
-    <td rowspan="6">8주차<br>(2023/08/07 ~ 2023/08/14)</td>
+    <td rowspan="6">8주차<br>(2023/08/07 ~ 2023/08/21)</td>
     <td>프로그래머스</td>
     <td style="vertical-align:middle"><img src="./이미지/3.png" width="17"/></td>
     <td>
@@ -319,7 +319,7 @@
     <td>구분</td>
    </tr>
  <tr align="center">
-    <td rowspan="3">8주차<br>(2023/08/07 ~ 2023/08/14)</td>
+    <td rowspan="3">9주차<br>(2023/08/21 ~ 2023/08/28)</td>
     <td>프로그래머스</td>
     <td style="vertical-align:middle"><img src="./이미지/3.png" width="17"/></td>
     <td>
