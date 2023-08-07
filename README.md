@@ -288,7 +288,7 @@
    </tr>
    <tr align="center">
     <td>백준</td>
-    <td style="vertical-align:middle"><img src="./이미지/gold4.svg" width="17"/></td>
+    <td style="vertical-align:middle"><img src="./이미지/gold3.svg" width="17"/></td>
     <td>
      <a href="https://www.acmicpc.net/problem/20058" target="_blank"> 마법사 상어와 파이어스톰 </a>
     </td>
