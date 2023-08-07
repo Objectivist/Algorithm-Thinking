@@ -279,6 +279,7 @@
     </td>
     <td>구분</td>
    </tr>
+   <tr align="center">
    <td>프로그래머스</td>
     <td style="vertical-align:middle"><img src="./이미지/3.png" width="17"/></td>
     <td>
