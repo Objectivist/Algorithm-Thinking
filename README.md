@@ -305,9 +305,9 @@
    </tr>
    <tr align="center">
     <td>백준</td>
-    <td style="vertical-align:middle"><img src="./이미지/gold4.svg" width="17"/></td>
+    <td style="vertical-align:middle"><img src="./이미지/gold5.svg" width="17"/></td>
     <td>
-     <a href="https://www.acmicpc.net/problem/???" target="_blank"> ??? </a>
+     <a href="https://www.acmicpc.net/problem/15686" target="_blank"> 치킨배달 </a>
     </td>
     <td>구분</td>
    </tr>
@@ -315,7 +315,7 @@
     <td>백준</td>
     <td style="vertical-align:middle"><img src="./이미지/gold5.svg" width="17"/></td>
     <td>
-     <a href="https://www.acmicpc.net/problem/???" target="_blank"> ??? </a>
+     <a href="https://www.acmicpc.net/problem/2668" target="_blank"> 숫자고르기 </a>
     </td>
     <td>구분</td>
    </tr>
