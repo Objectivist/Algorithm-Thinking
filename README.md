@@ -309,7 +309,7 @@
     <td>
      <a href="https://www.acmicpc.net/problem/15686" target="_blank"> 치킨배달 </a>
     </td>
-    <td>구분</td>
+    <td>구현</td>
    </tr>
    <tr align="center">
     <td>백준</td>
@@ -317,7 +317,7 @@
     <td>
      <a href="https://www.acmicpc.net/problem/2668" target="_blank"> 숫자고르기 </a>
     </td>
-    <td>구분</td>
+    <td>dfs</td>
    </tr>
  <tr align="center">
     <td rowspan="3">9주차<br>(2023/08/21 ~ 2023/08/28)</td>
