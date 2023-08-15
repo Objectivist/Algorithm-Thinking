@@ -271,7 +271,56 @@
     <td>시뮬레이션</td>
    </tr>
    <tr align="center">
-    <td rowspan="3">8주차<br>(2023/08/07 ~ 2023/08/14)</td>
+    <td rowspan="6">8주차<br>(2023/08/07 ~ 2023/08/21)</td>
+    <td>프로그래머스</td>
+    <td style="vertical-align:middle"><img src="./이미지/3.png" width="17"/></td>
+    <td>
+      <a href="https://school.programmers.co.kr/learn/courses/30/lessons/67258" target="_blank">보석 쇼핑</a>
+    </td>
+    <td>2020 카카오 인턴십</td>
+   </tr>
+   <tr align="center">
+   <td>프로그래머스</td>
+    <td style="vertical-align:middle"><img src="./이미지/3.png" width="17"/></td>
+    <td>
+      <a href="https://school.programmers.co.kr/learn/courses/30/lessons/17686" target="_blank">[3차]파일명 정렬</a>
+    </td>
+    <td>2018 KAKAO BLIND RECRUITMENT</td>
+   </tr>
+   <tr align="center">
+    <td>백준</td>
+    <td style="vertical-align:middle"><img src="./이미지/gold3.svg" width="17"/></td>
+    <td>
+     <a href="https://www.acmicpc.net/problem/20058" target="_blank"> 마법사 상어와 파이어스톰 </a>
+    </td>
+    <td>구현/시뮬레이션</td>
+   </tr>
+   <tr align="center">
+    <td>백준</td>
+    <td style="vertical-align:middle"><img src="./이미지/gold5.svg" width="17"/></td>
+    <td>
+     <a href="https://www.acmicpc.net/problem/3079" target="_blank"> 입국심사 </a>
+    </td>
+    <td>이분탐색</td>
+   </tr>
+   <tr align="center">
+    <td>백준</td>
+    <td style="vertical-align:middle"><img src="./이미지/gold5.svg" width="17"/></td>
+    <td>
+     <a href="https://www.acmicpc.net/problem/15686" target="_blank"> 치킨배달 </a>
+    </td>
+    <td>구현</td>
+   </tr>
+   <tr align="center">
+    <td>백준</td>
+    <td style="vertical-align:middle"><img src="./이미지/gold5.svg" width="17"/></td>
+    <td>
+     <a href="https://www.acmicpc.net/problem/2668" target="_blank"> 숫자고르기 </a>
+    </td>
+    <td>DFS</td>
+   </tr>
+ <tr align="center">
+    <td rowspan="3">9주차<br>(2023/08/21 ~ 2023/08/28)</td>
     <td>프로그래머스</td>
     <td style="vertical-align:middle"><img src="./이미지/3.png" width="17"/></td>
     <td>
