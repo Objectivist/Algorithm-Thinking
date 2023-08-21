@@ -97,3 +97,19 @@
  
 <br>
 </details>
+
+<details markdown="1">
+<summary><strong> 8/9주차🌱 (2023/08/07 ~ 2023/08/21)</strong></summary> 
+  
+| 레벨 |     문제     |                             내용                             | 수행 | 언어 | 바로가기 | 정리글 |
+| :----: | :----------: | :----------------------------------------------------------: | :----: | :----: | :----: | :----: |
+|LV3|[Programmers_보석_쇼핑](https://school.programmers.co.kr/learn/courses/30/lessons/67258)|2020 카카오 인턴십
+| ○ | JAVA |[클릭](./Programmers/LV3_보석_쇼핑.java)||
+|LV3|[Programmers_[3차]_파일명_정렬](https://school.programmers.co.kr/learn/courses/30/lessons/17686)|2018 KAKAO BLIND RECRUITMENT| ○ | JAVA |[클릭](./Programmers/LV3_[3차]_파일명_정렬.java)||
+|골드3|[BOJ_20058_마법사_상어와_파이어스톰](https://www.acmicpc.net/problem/20058)|구현, 시뮬레이션| ○ | JAVA |[클릭](./BOJ/BOJ_20058_마법사_상어와_파이어스톰.java)||
+|골드5|[BOJ_3079_입국심사](https://www.acmicpc.net/problem/3079)|이분탐색| ○ | JAVA |[클릭](./BOJ/BOJ_3079_입국심사.java)||
+|골드4|[BOJ_15686_치킨_배달](https://www.acmicpc.net/problem/15686)|구현| ○ | JAVA |[클릭](./BOJ/BOJ_15686_치킨_배달.java)||
+|골드5|[BOJ_2668_숫자고르기](https://www.acmicpc.net/problem/2668)|그래프탐색, DFS| ○ | JAVA |[클릭](./BOJ/BOJ_2668_숫자고르기.java)||
+ 
+<br>
+</details>
