@@ -321,29 +321,21 @@
     <td>DFS</td>
    </tr>
  <tr align="center">
-    <td rowspan="3">9주차<br>(2023/08/21 ~ 2023/08/28)</td>
-    <td>프로그래머스</td>
+    <td rowspan="3">9주차<br>(2023/08/21 ~ 2023/09/04)</td>
+    <td>소프티어</td>
     <td style="vertical-align:middle"><img src="./이미지/3.png" width="17"/></td>
     <td>
-      <a href="???" target="_blank"> ??? </a>
+      <a href="https://softeer.ai/practice/info.do?idx=1&eid=804" target="_blank"> 플레이페어 암호 </a>
     </td>
-    <td>구분</td>
+    <td>구현</td>
    </tr>
    <tr align="center">
     <td>백준</td>
     <td style="vertical-align:middle"><img src="./이미지/gold4.svg" width="17"/></td>
     <td>
-     <a href="https://www.acmicpc.net/problem/???" target="_blank"> ??? </a>
+     <a href="https://www.acmicpc.net/problem/14938" target="_blank"> 서강그라운드 </a>
     </td>
-    <td>구분</td>
-   </tr>
-   <tr align="center">
-    <td>백준</td>
-    <td style="vertical-align:middle"><img src="./이미지/gold5.svg" width="17"/></td>
-    <td>
-     <a href="https://www.acmicpc.net/problem/???" target="_blank"> ??? </a>
-    </td>
-    <td>구분</td>
+    <td>다익스트라</td>
    </tr>
   </tbody>
 </table>
