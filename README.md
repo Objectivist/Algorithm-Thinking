@@ -337,23 +337,6 @@
     </td>
     <td>다익스트라</td>
    </tr>
-  <tr align="center">
-    <td rowspan="3">10주차<br>(2023/09/04 ~ 2023/09/11)</td>
-    <td>TBD</td>
-    <td style="vertical-align:middle"><img src="./이미지/3.png" width="17"/></td>
-    <td>
-      <a href="TBD" target="_blank"> TBD </a>
-    </td>
-    <td>TBD</td>
-   </tr>
-   <tr align="center">
-    <td>TBD</td>
-    <td style="vertical-align:middle"><img src="./이미지/gold4.svg" width="17"/></td>
-    <td>
-     <a href="TBD" target="_blank"> TBD </a>
-    </td>
-    <td>TBD</td>
-   </tr>
   </tbody>
 </table>
 </details>
