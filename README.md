@@ -61,6 +61,7 @@
 |2023-07-17~2023-07-31|26P~35P|2장 객체 생성과 파괴 (아이템 4~6)| ■ Effective Java | |
 |2023-07-31~2023-08-21|36P~50P|2장 객체 생성과 파괴 (아이템 7~9)| ■ Effective Java | |
 |2023-08-21~2023-09-04|51P~76P|2장 객체 생성과 파괴 (아이템 10~12)| ■ Effective Java | |
+|2023-09-04~2023-09-11|51P~76P|3장 모든 객체의 공통 메서드 (아이템 13~15)| ■ Effective Java | |
 
 </details>
 </br>
@@ -320,8 +321,8 @@
     </td>
     <td>DFS</td>
    </tr>
- <tr align="center">
-    <td rowspan="3">9주차<br>(2023/08/21 ~ 2023/09/04)</td>
+   <tr align="center">
+    <td rowspan="2">9주차<br>(2023/08/21 ~ 2023/09/04)</td>
     <td>소프티어</td>
     <td style="vertical-align:middle"><img src="./이미지/3.png" width="17"/></td>
     <td>
@@ -338,5 +339,41 @@
     <td>다익스트라</td>
    </tr>
   </tbody>
+</table>
+</details>
+
+
+<details markdown="1">
+<summary><strong> 2023/09</strong></summary>
+<br>
+<table style="text-aling:center">
+  <thead>
+    <tr align="center">
+     <th>주차</th>
+     <th>종류</th>
+     <th>레벨</th>
+     <th>문제</th>
+     <th>유형</th>
+    </tr>
+  </thead>
+  <tbody>
+  <tr align="center">
+    <td rowspan="2">10주차<br>(2023/09/04 ~ 2023/09/11)</td>
+    <td>소프티어</td>
+    <td style="vertical-align:middle"><img src="./이미지/3.png" width="17"/></td>
+    <td>
+      <a href="https://softeer.ai/practice/info.do?idx=1&eid=1717" target="_blank"> 자동차 테스트 </a>
+    </td>
+    <td>구현</td>
+   </tr>
+   <tr align="center">
+    <td>백준</td>
+    <td style="vertical-align:middle"><img src="./이미지/gold4.svg" width="17"/></td>
+    <td>
+     <a href="https://www.acmicpc.net/problem/2565" target="_blank"> 전깃줄 </a>
+    </td>
+    <td> DP </td>
+   </tr>
+     </tbody>
 </table>
 </details>
