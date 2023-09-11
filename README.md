@@ -55,13 +55,14 @@
 <details markdown="1">
 <summary><strong> 요약 </strong></summary> 
   
-| 기간 |     페이지     |                             내용                             | 도서명 | 비고 |
-| :----: | :----------: | :----------------------------------------------------------: | :----: | :----: |
-|2023-07-03~2023-07-17|7P~25P|2장 객체 생성과 파괴 (아이템 1~3)| ■ Effective Java | |
-|2023-07-17~2023-07-31|26P~35P|2장 객체 생성과 파괴 (아이템 4~6)| ■ Effective Java | |
-|2023-07-31~2023-08-21|36P~50P|2장 객체 생성과 파괴 (아이템 7~9)| ■ Effective Java | |
-|2023-08-21~2023-09-04|51P~76P|2장 객체 생성과 파괴 (아이템 10~12)| ■ Effective Java | |
-|2023-09-04~2023-09-11|51P~76P|3장 모든 객체의 공통 메서드 (아이템 13~15)| ■ Effective Java | |
+|          기간           |    페이지    |              내용              | 도서명 | 비고 |
+|:---------------------:|:---------:|:----------------------------:| :----: | :----: |
+| 2023-07-03~2023-07-17 |  7P~25P   |    2장 객체 생성과 파괴 (아이템 1~3)    | ■ Effective Java | |
+| 2023-07-17~2023-07-31 |  26P~35P  |    2장 객체 생성과 파괴 (아이템 4~6)    | ■ Effective Java | |
+| 2023-07-31~2023-08-21 |  36P~50P  |    2장 객체 생성과 파괴 (아이템 7~9)    | ■ Effective Java | |
+| 2023-08-21~2023-09-04 |  51P~76P  |   2장 객체 생성과 파괴 (아이템 10~12)   | ■ Effective Java | |
+| 2023-09-04~2023-09-11 |  51P~76P  | 3장 모든 객체의 공통 메서드 (아이템 13~15) | ■ Effective Java | |
+| 2023-09-11~2023-09-18 | 102P~114P |  4장 클래스와 인터페이스 (아이템 16~18)   | ■ Effective Java | |
 
 </details>
 </br>
@@ -371,6 +372,23 @@
     <td style="vertical-align:middle"><img src="./이미지/gold4.svg" width="17"/></td>
     <td>
      <a href="https://www.acmicpc.net/problem/2565" target="_blank"> 전깃줄 </a>
+    </td>
+    <td> DP </td>
+   </tr>
+<tr align="center">
+    <td rowspan="2">11주차<br>(2023/09/11 ~ 2023/09/18)</td>
+    <td>소프티어</td>
+    <td style="vertical-align:middle"><img src="./이미지/3.png" width="17"/></td>
+    <td>
+      <a href="https://softeer.ai/practice/info.do?idx=1&eid=1309" target="_blank"> 성적 평가 </a>
+    </td>
+    <td>구현</td>
+   </tr>
+   <tr align="center">
+    <td>백준</td>
+    <td style="vertical-align:middle"><img src="./이미지/gold2.svg" width="17"/></td>
+    <td>
+     <a href="https://www.acmicpc.net/problem/19236" target="_blank"> 백트래킹 </a>
     </td>
     <td> DP </td>
    </tr>
