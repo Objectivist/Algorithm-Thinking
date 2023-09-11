@@ -388,9 +388,9 @@
     <td>백준</td>
     <td style="vertical-align:middle"><img src="./이미지/gold2.svg" width="17"/></td>
     <td>
-     <a href="https://www.acmicpc.net/problem/19236" target="_blank"> 백트래킹 </a>
+     <a href="https://www.acmicpc.net/problem/19236" target="_blank"> 청소년 상어 </a>
     </td>
-    <td> DP </td>
+    <td> 백트래킹 </td>
    </tr>
      </tbody>
 </table>
