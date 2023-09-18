@@ -63,6 +63,7 @@
 | 2023-08-21~2023-09-04 |  51P~76P  |   2장 객체 생성과 파괴 (아이템 10~12)   | ■ Effective Java | |
 | 2023-09-04~2023-09-11 |  51P~76P  | 3장 모든 객체의 공통 메서드 (아이템 13~15) | ■ Effective Java | |
 | 2023-09-11~2023-09-18 | 102P~114P |  4장 클래스와 인터페이스 (아이템 16~18)   | ■ Effective Java | |
+| 2023-09-18~2023-09-25 | 122P~136P |  4장 클래스와 인터페이스 (아이템 19~21)   | ■ Effective Java | |
 
 </details>
 </br>
@@ -389,6 +390,23 @@
     <td style="vertical-align:middle"><img src="./이미지/gold2.svg" width="17"/></td>
     <td>
      <a href="https://www.acmicpc.net/problem/19236" target="_blank"> 청소년 상어 </a>
+    </td>
+    <td> 백트래킹 </td>
+   </tr>
+   <tr align="center">
+    <td rowspan="2">12주차<br>(2023/09/18 ~ 2023/09/25)</td>
+    <td>소프티어</td>
+    <td style="vertical-align:middle"><img src="./이미지/3.png" width="17"/></td>
+    <td>
+      <a href="https://softeer.ai/practice/info.do?idx=1&eid=1309" target="_blank"> 순서대로 방문하기 </a>
+    </td>
+    <td>구현</td>
+   </tr>
+   <tr align="center">
+    <td>백준</td>
+    <td style="vertical-align:middle"><img src="./이미지/gold4.svg" width="17"/></td>
+    <td>
+     <a href="https://www.acmicpc.net/problem/1987" target="_blank"> dfs </a>
     </td>
     <td> 백트래킹 </td>
    </tr>
