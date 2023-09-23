@@ -398,7 +398,7 @@
     <td>소프티어</td>
     <td style="vertical-align:middle"><img src="./이미지/3.png" width="17"/></td>
     <td>
-      <a href="https://softeer.ai/practice/info.do?idx=1&eid=1309" target="_blank"> 순서대로 방문하기 </a>
+      <a href="https://softeer.ai/practice/info.do?idx=1&eid=2050" target="_blank"> 순서대로 방문하기 </a>
     </td>
     <td>구현</td>
    </tr>
