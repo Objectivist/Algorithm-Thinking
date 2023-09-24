@@ -406,9 +406,9 @@
     <td>백준</td>
     <td style="vertical-align:middle"><img src="./이미지/gold4.svg" width="17"/></td>
     <td>
-     <a href="https://www.acmicpc.net/problem/1987" target="_blank"> dfs </a>
+     <a href="https://www.acmicpc.net/problem/1987" target="_blank"> 알파벳 </a>
     </td>
-    <td> 백트래킹 </td>
+    <td> dfs </td>
    </tr>
      </tbody>
 </table>
