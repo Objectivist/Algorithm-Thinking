@@ -64,6 +64,8 @@
 | 2023-09-04~2023-09-11 |  51P~76P  | 3장 모든 객체의 공통 메서드 (아이템 13~15) | ■ Effective Java | |
 | 2023-09-11~2023-09-18 | 102P~114P |  4장 클래스와 인터페이스 (아이템 16~18)   | ■ Effective Java | |
 | 2023-09-18~2023-09-25 | 122P~136P |  4장 클래스와 인터페이스 (아이템 19~21)   | ■ Effective Java | |
+| 2023-09-25~2023-10-02 | 휴식 |  휴식  | 휴식 | |
+| 2023-10-02~2023-10-09 | 139P~150P |  4장 클래스와 인터페이스 (아이템 22~25)   | ■ Effective Java | |
 
 </details>
 </br>
@@ -376,7 +378,7 @@
     </td>
     <td> DP </td>
    </tr>
-<tr align="center">
+   <tr align="center">
     <td rowspan="2">11주차<br>(2023/09/11 ~ 2023/09/18)</td>
     <td>소프티어</td>
     <td style="vertical-align:middle"><img src="./이미지/3.png" width="17"/></td>
@@ -409,6 +411,23 @@
      <a href="https://www.acmicpc.net/problem/1987" target="_blank"> 알파벳 </a>
     </td>
     <td> dfs </td>
+   </tr>
+   <tr align="center">
+    <td rowspan="2">13~14주차<br>(2023/09/25 ~ 2023/10/09)</td>
+    <td>소프티어</td>
+    <td style="vertical-align:middle"><img src="./이미지/3.png" width="17"/></td>
+    <td>
+      <a href="https://softeer.ai/practice/info.do?idx=1&eid=392" target="_blank"> 강의실 배정 </a>
+    </td>
+    <td> 구현 </td>
+   </tr>
+   <tr align="center">
+    <td>백준</td>
+    <td style="vertical-align:middle"><img src="./이미지/gold2.svg" width="17"/></td>
+    <td>
+     <a href="https://www.acmicpc.net/problem/2473" target="_blank"> 세 용액 </a>
+    </td>
+    <td> 이분탐색 </td>
    </tr>
      </tbody>
 </table>
