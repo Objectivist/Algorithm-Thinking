@@ -429,6 +429,23 @@
     </td>
     <td> 이분탐색 </td>
    </tr>
+   <tr align="center">
+    <td rowspan="2">15주차<br>(2023/10/10 ~ 2023/10/15)</td>
+    <td>소프티어</td>
+    <td style="vertical-align:middle"><img src="./이미지/3.png" width="17"/></td>
+    <td>
+      <a href="https://softeer.ai/practice/info.do?idx=1&eid=582" target="_blank"> 지우는 소수를 좋아해 </a>
+    </td>
+    <td>구현</td>
+   </tr>
+   <tr align="center">
+    <td>백준</td>
+    <td style="vertical-align:middle"><img src="./이미지/gold4.svg" width="17"/></td>
+    <td>
+     <a href="https://www.acmicpc.net/problem/2239" target="_blank">스도쿠</a>
+    </td>
+    <td>백트래킹</td>
+   </tr>
      </tbody>
 </table>
 </details>
