@@ -475,7 +475,7 @@
     <td>백준</td>
     <td style="vertical-align:middle"><img src="./이미지/gold4.svg" width="17"/></td>
     <td>
-     <a href="https://www.acmicpc.net/problem/17255" target="_blank">스도쿠</a>
+     <a href="https://www.acmicpc.net/problem/17255" target="_blank">N으로 만들기</a>
     </td>
     <td>백트래킹</td>
    </tr>
