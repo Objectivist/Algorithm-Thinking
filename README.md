@@ -485,7 +485,7 @@
     <td>소프티어</td>
     <td style="vertical-align:middle"><img src="./이미지/gold3.svg" width="17"/></td>
     <td>
-      <a href="https://softeer.ai/practice/info.do?idx=1&eid=577" target="_blank"> 로봇이 지나간 경로 </a>
+      <a href="https://softeer.ai/practice/6275" target="_blank"> 로봇이 지나간 경로 </a>
     </td>
     <td>구현</td>
    </tr>
@@ -493,7 +493,7 @@
     <td>소프티어</td>
     <td style="vertical-align:middle"><img src="./이미지/gold3.svg" width="17"/></td>
     <td>
-     <a href="https://softeer.ai/practice/info.do?idx=1&eid=1309" target="_blank">성적 평가</a>
+     <a href="https://softeer.ai/practice/6250" target="_blank">성적 평가</a>
     </td>
     <td>구현</td>
    </tr>
