@@ -67,6 +67,7 @@
 | 2023-10-02~2023-10-09 | 139P~146P |  4장 클래스와 인터페이스 (아이템 22~24)   | ■ Effective Java | |
 | 2023-10-10~2023-10-15 | 150P~161P |  4장 클래스와 인터페이스 (아이템 25~27)   | ■ Effective Java | |
 | 2023-10-16~2023-10-23 | 164P~176P |  5장 제네릭 (아이템 28~30)   | ■ Effective Java | |
+| 2023-10-23~2023-10-30 | 176P~205P |  5장 제네릭 (아이템 31~33)   | ■ Effective Java | |
 
 </details>
 </br>
@@ -478,6 +479,23 @@
      <a href="https://www.acmicpc.net/problem/17255" target="_blank">N으로 만들기</a>
     </td>
     <td>백트래킹</td>
+   </tr>
+    <tr align="center">
+    <td rowspan="2">17주차<br>(2023/10/23 ~ 2023/10/30)</td>
+    <td>소프티어</td>
+    <td style="vertical-align:middle"><img src="./이미지/gold3.svg" width="17"/></td>
+    <td>
+      <a href="https://softeer.ai/practice/info.do?idx=1&eid=577" target="_blank"> 로봇이 지나간 경로 </a>
+    </td>
+    <td>구현</td>
+   </tr>
+   <tr align="center">
+    <td>소프티어</td>
+    <td style="vertical-align:middle"><img src="./이미지/gold3.svg" width="17"/></td>
+    <td>
+     <a href="https://softeer.ai/practice/info.do?idx=1&eid=1309" target="_blank">성적 평가</a>
+    </td>
+    <td>구현</td>
    </tr>
   </table>
 </details>
