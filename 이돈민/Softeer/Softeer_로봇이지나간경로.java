@@ -68,7 +68,8 @@ public class Softeer_로봇이지나간경로 {
             String cd = cur.dir;
             //System.out.println("x : " + (cx+1) + " , y : " + (cy+1) + " , dir : " + cd);
             String command = bfs(cx, cy, cd);
-
+            //System.out.println("##########################");
+            //print();
             //System.out.println(command);
             arr.add(new Robot(cx, cy, command, cd));
         }
@@ -89,7 +90,7 @@ public class Softeer_로봇이지나간경로 {
     public static void print(){
         for(int i=0;i<h;i++){
             for(int j=0;j<w;j++){
-                System.out.print(map[i][j]);
+                System.out.print(map[i][j]+" ");
             }
             System.out.println();
         }
@@ -131,26 +132,29 @@ public class Softeer_로봇이지나간경로 {
         q = new LinkedList<>();
         q.offer(new Robot(x, y, command, dir));
         visited[x][y] = true;
-
+        map[x][y] = '@';
         while(!q.isEmpty()){
             Robot cur = q.poll();
             int cx = cur.x;
             int cy = cur.y;
             int cd = convDir(cur.dir);
             //System.out.println("-------------------------------");
+            //print();
             //System.out.println("현재 위치 x : " + cx + " , y : " + cy + " 보는 방향 : " + cur.dir + "("+convDir(cur.dir)+")");
             String cc = cur.command;
             command = cc;
             //현재 바라보고 있는 방향과 i가 일치하면 A 아니면 L 또는 R
             for(int i=0;i<4;i++){
-                int nx = cx+2*dx[i];
-                int ny = cy+2*dy[i];
+                int nx = cx+dx[i];
+                int ny = cy+dy[i];
+                int nx2 = cx+dx[i]*2;
+                int ny2 = cy+dy[i]*2;
                 int nd = cd-i;
 
                 //북 : 0, 서 : 1, 남 : 2, 동 : 3
-                if(nx < 0 || ny < 0 || nx >= h || ny >= w)
+                if(nx < 0 || ny < 0 || nx >= h || ny >= w || nx2 < 0 || ny2 < 0 || nx2 >= h || ny2 >= w)
                     continue;
-                if(!visited[nx][ny] && map[nx][ny] == '#'){
+                if(map[nx][ny] == '#' && !visited[nx][ny] && !visited[nx2][ny2] && map[nx2][ny2] == '#'){
                     if(nd == 0){
                         cc += "A";
                     }else if(nd == -1 || nd == 3){
@@ -161,9 +165,14 @@ public class Softeer_로봇이지나간경로 {
                         cc += "RA";
                     }
                     visited[nx][ny] = true;
+                    visited[nx2][ny2] = true;
+
                     //System.out.println("다음 이동할 방향 : " + convDir2(i)+"("+i+")");
                     //System.out.println("추가될 커맨드 : " + cc);
-                    q.offer(new Robot(nx, ny, cc, convDir2(i)));
+                    map[cx][cy] = '#';
+                    map[nx2][ny2] = '@';
+                    q.offer(new Robot(nx2, ny2, cc, convDir2(i)));
+                    break;
                 }
             }
         }
