@@ -68,6 +68,7 @@
 | 2023-10-10~2023-10-15 | 150P~161P |  4장 클래스와 인터페이스 (아이템 25~27)   | ■ Effective Java | |
 | 2023-10-16~2023-10-23 | 164P~176P |  5장 제네릭 (아이템 28~30)   | ■ Effective Java | |
 | 2023-10-23~2023-10-30 | 176P~205P |  5장 제네릭 (아이템 31~33)   | ■ Effective Java | |
+| 2023-11-06~2023-11-13 | 176P~205P |  5장 제네릭 (아이템 34~36)   | ■ Effective Java | |
 
 </details>
 </br>
@@ -494,6 +495,23 @@
     <td style="vertical-align:middle"><img src="./이미지/gold3.svg" width="17"/></td>
     <td>
      <a href="https://softeer.ai/practice/6250" target="_blank">성적 평가</a>
+    </td>
+    <td>구현</td>
+   </tr>
+    <tr align="center">
+    <td rowspan="2">18주차<br>(2023/11/06 ~ 2023/11/13)</td>
+    <td>프로그래머스</td>
+    <td style="vertical-align:middle"><img src="./이미지/gold3.svg" width="17"/></td>
+    <td>
+      <a href="https://school.programmers.co.kr/learn/courses/30/lessons/64062" target="_blank"> 징검다리 건너기 </a>
+    </td>
+    <td>구현</td>
+   </tr>
+   <tr align="center">
+    <td>프로그래머스</td>
+    <td style="vertical-align:middle"><img src="./이미지/gold3.svg" width="17"/></td>
+    <td>
+     <a href="https://school.programmers.co.kr/learn/courses/30/lessons/17687" target="_blank">n 진수 게임</a>
     </td>
     <td>구현</td>
    </tr>
