@@ -517,7 +517,7 @@
   <tbody>
    <tr align="center">
        <tr align="center">
-    <td rowspan="2">18주차<br>(2023/11/06 ~ 2023/11/13)</td>
+    <td rowspan="2">18주차<br>(2023/11/06 ~ 2023/11/20)</td>
     <td>프로그래머스</td>
     <td style="vertical-align:middle"><img src="./이미지/gold3.svg" width="17"/></td>
     <td>
