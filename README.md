@@ -70,6 +70,7 @@
 | 2023-10-23~2023-10-30 | 176P~205P |      5장 제네릭 (아이템 31~33)      | ■ Effective Java | |
 | 2023-11-06~2023-11-13 | 208P~223P |      5장 제네릭 (아이템 34~36)      | ■ Effective Java | |
 | 2023-11-20~2023-11-27 | 226P~237P |      5장 제네릭 (아이템 37~39)      | ■ Effective Java | |
+| 2023-11-27~2023-12-04 | 238P~254P |      5장 제네릭/6장 람다와 스트링 (아이템 40~42)      | ■ Effective Java | |
 
 </details>
 </br>
@@ -553,6 +554,43 @@
                 </td>
                 <td>구현</td>
                </tr>
+        </tr>
+      </tbody>
+    </table>
+ </details>
+
+ <details markdown="1">
+    <summary><strong> 2023/12</strong></summary>
+    <br>
+    <table style="text-aling:center">
+      <thead>
+        <tr align="center">
+         <th>주차</th>
+         <th>종류</th>
+         <th>레벨</th>
+         <th>문제</th>
+         <th>유형</th>
+        </tr>
+      </thead>
+      <tbody>
+       <tr align="center">
+        <tr align="center">
+            <td rowspan="2">20주차<br>(2023/11/28 ~ 2023/12/04)</td>
+            <td>백준</td>
+            <td style="vertical-align:middle"><img src="./이미지/gold3.svg" width="17"/></td>
+            <td>
+              <a href="https://www.acmicpc.net/problem/15685" target="_blank"> 드래곤 커브 </a>
+            </td>
+            <td>구현</td>
+           </tr>
+           <tr align="center">
+            <td>프로그래머스</td>
+            <td style="vertical-align:middle"><img src="./이미지/gold4.svg" width="17"/></td>
+            <td>
+             <a href="https://www.acmicpc.net/problem/14499" target="_blank">주사위 굴리기</a>
+            </td>
+            <td>구현</td>
+           </tr>
         </tr>
       </tbody>
     </table>
