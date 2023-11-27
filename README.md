@@ -63,12 +63,14 @@
 | 2023-09-04~2023-09-11 |  51P~76P  | 3장 모든 객체의 공통 메서드 (아이템 13~15) | ■ Effective Java | |
 | 2023-09-11~2023-09-18 | 102P~114P |  4장 클래스와 인터페이스 (아이템 16~18)   | ■ Effective Java | |
 | 2023-09-18~2023-09-25 | 122P~136P |  4장 클래스와 인터페이스 (아이템 19~21)   | ■ Effective Java | |
-| 2023-09-25~2023-10-02 | 휴식 |  휴식  | 휴식 | |
+| 2023-09-25~2023-10-02 |    휴식     |              휴식              | 휴식 | |
 | 2023-10-02~2023-10-09 | 139P~146P |  4장 클래스와 인터페이스 (아이템 22~24)   | ■ Effective Java | |
 | 2023-10-10~2023-10-15 | 150P~161P |  4장 클래스와 인터페이스 (아이템 25~27)   | ■ Effective Java | |
-| 2023-10-16~2023-10-23 | 164P~176P |  5장 제네릭 (아이템 28~30)   | ■ Effective Java | |
-| 2023-10-23~2023-10-30 | 176P~205P |  5장 제네릭 (아이템 31~33)   | ■ Effective Java | |
-| 2023-11-06~2023-11-13 | 176P~205P |  5장 제네릭 (아이템 34~36)   | ■ Effective Java | |
+| 2023-10-16~2023-10-23 | 164P~176P |      5장 제네릭 (아이템 28~30)      | ■ Effective Java | |
+| 2023-10-23~2023-10-30 | 176P~205P |      5장 제네릭 (아이템 31~33)      | ■ Effective Java | |
+| 2023-11-06~2023-11-13 | 208P~223P |      5장 제네릭 (아이템 34~36)      | ■ Effective Java | |
+| 2023-11-20~2023-11-27 | 226P~237P |      5장 제네릭 (아이템 37~39)      | ■ Effective Java | |
+| 2023-11-27~2023-12-04 | 238P~254P |      5장 제네릭/6장 람다와 스트링 (아이템 40~42)      | ■ Effective Java | |
 
 </details>
 </br>
@@ -501,37 +503,95 @@
   </table>
 </details>
 
- <details markdown="1">
-<summary><strong> 2023/11</strong></summary>
-<br>
-<table style="text-aling:center">
-  <thead>
-    <tr align="center">
-     <th>주차</th>
-     <th>종류</th>
-     <th>레벨</th>
-     <th>문제</th>
-     <th>유형</th>
-    </tr>
-  </thead>
-  <tbody>
-   <tr align="center">
+<details markdown="1">
+    <summary><strong> 2023/11</strong></summary>
+    <br>
+    <table style="text-aling:center">
+      <thead>
+        <tr align="center">
+         <th>주차</th>
+         <th>종류</th>
+         <th>레벨</th>
+         <th>문제</th>
+         <th>유형</th>
+        </tr>
+      </thead>
+      <tbody>
        <tr align="center">
-    <td rowspan="2">18주차<br>(2023/11/06 ~ 2023/11/13)</td>
-    <td>프로그래머스</td>
-    <td style="vertical-align:middle"><img src="./이미지/gold3.svg" width="17"/></td>
-    <td>
-      <a href="https://school.programmers.co.kr/learn/courses/30/lessons/64062" target="_blank"> 징검다리 건너기 </a>
-    </td>
-    <td>구현</td>
-   </tr>
-   <tr align="center">
-    <td>프로그래머스</td>
-    <td style="vertical-align:middle"><img src="./이미지/gold3.svg" width="17"/></td>
-    <td>
-     <a href="https://school.programmers.co.kr/learn/courses/30/lessons/17687" target="_blank">n 진수 게임</a>
-    </td>
-    <td>구현</td>
-   </tr>
-  </table>
-</details>
+        <tr align="center">
+            <td rowspan="2">18주차<br>(2023/11/06 ~ 2023/11/20)</td>
+            <td>프로그래머스</td>
+            <td style="vertical-align:middle"><img src="./이미지/gold3.svg" width="17"/></td>
+            <td>
+              <a href="https://school.programmers.co.kr/learn/courses/30/lessons/64062" target="_blank"> 징검다리 건너기 </a>
+            </td>
+            <td>구현</td>
+           </tr>
+           <tr align="center">
+            <td>프로그래머스</td>
+            <td style="vertical-align:middle"><img src="./이미지/gold3.svg" width="17"/></td>
+            <td>
+             <a href="https://school.programmers.co.kr/learn/courses/30/lessons/17687" target="_blank">n 진수 게임</a>
+            </td>
+            <td>구현</td>
+           </tr>
+        </tr>
+        <tr align="center">
+            <tr align="center">
+                <td rowspan="2">19주차<br>(2023/11/20 ~ 2023/12/27)</td>
+                <td>프로그래머스</td>
+                <td style="vertical-align:middle"><img src="./이미지/gold2.svg" width="17"/></td>
+                <td>
+                  <a href="https://school.programmers.co.kr/learn/courses/30/lessons/92341" target="_blank"> 주차 요금 계산 </a>
+                </td>
+                <td>구현</td>
+               </tr>
+               <tr align="center">
+                <td>프로그래머스</td>
+                <td style="vertical-align:middle"><img src="./이미지/gold3.svg" width="17"/></td>
+                <td>
+                 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/131130" target="_blank"> 혼자 놀기의 달인 </a>
+                </td>
+                <td>구현</td>
+               </tr>
+        </tr>
+      </tbody>
+    </table>
+ </details>
+
+ <details markdown="1">
+    <summary><strong> 2023/12</strong></summary>
+    <br>
+    <table style="text-aling:center">
+      <thead>
+        <tr align="center">
+         <th>주차</th>
+         <th>종류</th>
+         <th>레벨</th>
+         <th>문제</th>
+         <th>유형</th>
+        </tr>
+      </thead>
+      <tbody>
+       <tr align="center">
+        <tr align="center">
+            <td rowspan="2">20주차<br>(2023/11/28 ~ 2023/12/04)</td>
+            <td>백준</td>
+            <td style="vertical-align:middle"><img src="./이미지/gold3.svg" width="17"/></td>
+            <td>
+              <a href="https://www.acmicpc.net/problem/15685" target="_blank"> 드래곤 커브 </a>
+            </td>
+            <td>구현</td>
+           </tr>
+           <tr align="center">
+            <td>프로그래머스</td>
+            <td style="vertical-align:middle"><img src="./이미지/gold4.svg" width="17"/></td>
+            <td>
+             <a href="https://www.acmicpc.net/problem/14499" target="_blank">주사위 굴리기</a>
+            </td>
+            <td>구현</td>
+           </tr>
+        </tr>
+      </tbody>
+    </table>
+ </details>
