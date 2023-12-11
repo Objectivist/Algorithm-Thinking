@@ -592,6 +592,24 @@
             <td>구현</td>
            </tr>
         </tr>
+        <tr align="center">
+            <td rowspan="2">21주차<br>(2023/12/11~ 2023/12/18)</td>
+            <td>프로그래머</td>
+            <td style="vertical-align:middle"><img src="./이미지/3.png" width="17"/></td>
+            <td>
+              <a href="https://school.programmers.co.kr/learn/courses/30/lessons/148653?language=java" target="_blank"> 마법의 엘리베이터 </a>
+            </td>
+            <td>연습문제</td>
+           </tr>
+           <tr align="center">
+            <td>프로그래머스</td>
+            <td style="vertical-align:middle"><img src="./이미지/2.png" width="17"/></td>
+            <td>
+             <a href="https://school.programmers.co.kr/learn/courses/30/lessons/152996" target="_blank"> 시소 짝궁 </a>
+            </td>
+            <td>연습문제</td>
+           </tr>
+        </tr>
       </tbody>
     </table>
  </details>
