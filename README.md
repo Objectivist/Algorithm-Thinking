@@ -596,7 +596,7 @@
         </tr>
         <tr align="center">
             <td rowspan="2">21주차<br>(2023/12/11~ 2023/12/18)</td>
-            <td>프로그래머</td>
+            <td>프로그래머스</td>
             <td style="vertical-align:middle"><img src="./이미지/3.png" width="17"/></td>
             <td>
               <a href="https://school.programmers.co.kr/learn/courses/30/lessons/148653?language=java" target="_blank"> 마법의 엘리베이터 </a>
@@ -610,6 +610,24 @@
              <a href="https://school.programmers.co.kr/learn/courses/30/lessons/152996" target="_blank"> 시소 짝궁 </a>
             </td>
             <td>연습문제</td>
+           </tr>
+        </tr>
+        <tr align="center">
+            <td rowspan="2">22주차<br>(2023/12/18~ 2024/01/08)</td>
+            <td>프로그래머스</td>
+            <td style="vertical-align:middle"><img src="./이미지/3.png" width="17"/></td>
+            <td>
+              <a href="https://school.programmers.co.kr/learn/courses/30/lessons/150365" target="_blank"> 미로 탈출 명령어 </a>
+            </td>
+            <td>카카오</td>
+           </tr>
+           <tr align="center">
+            <td>프로그래머스</td>
+            <td style="vertical-align:middle"><img src="./이미지/3.png" width="17"/></td>
+            <td>
+             <a href="https://school.programmers.co.kr/learn/courses/30/lessons/150368" target="_blank"> 이모티콘 할인행 </a>
+            </td>
+            <td>카카오</td>
            </tr>
         </tr>
       </tbody>
